@@ -1,0 +1,26 @@
+
+*{
+   border-style:solid;
+   padding:10px;
+   margin:60px;
+  }
+
+
+p
+  {
+  position:none;
+  left:30px;
+  top:700px;
+  bottom: 90px;
+  right: 20px;
+  height:600px;
+  width:300px;
+  }
+
+ .p{
+
+  display:inline;
+
+ }
+ 
+

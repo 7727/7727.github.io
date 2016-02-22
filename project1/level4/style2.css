@@ -1,0 +1,56 @@
+
+
+*
+  {
+  border:5px solid red;
+  font-style:normal;
+  }
+
+
+h1{
+font-family:Autumn;
+ font-size:60px;
+
+}
+
+p
+  {
+  padding:2cm 4cm 3cm 4cm;
+  margin:2cm 4cm 3cm 4cm;
+  position:absolute;
+  left:30px;
+  top:300px;
+  bottom: 90px;
+  right: 20px;
+  height:400px;
+  width:300px;
+  }
+
+ 
+*
+li{
+
+  font-weight:700;
+  font-family:Dolly;
+  line-height:length;
+  letter-spacing:3px;
+}
+ol{
+
+  font-size:15px;
+  text-align:center;
+  text-transform:capitalize;
+
+}
+
+
+
+
+
+
+
+
+p.inline
+  {
+  display:inline;
+  }

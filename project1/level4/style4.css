@@ -1,0 +1,32 @@
+
+*{
+   border-style:solid;
+   padding:10px;
+   margin:60px;
+  font-style:normal;
+  text-align:center;
+  line-height:22px;
+  }
+
+
+p
+  {
+  position:none;
+  left:30px;
+  top:700px;
+  bottom: 90px;
+  right: 20px;
+  height:600px;
+  width:300px;
+  font-size:16px;
+   font-family:superstar;
+  }
+
+ .p{
+
+  display:inline;
+
+ }
+ 
+
+

@@ -1,0 +1,29 @@
+
+
+*
+  {
+  border:5px solid red;
+  }
+
+
+p
+  {
+  padding:2cm 4cm 3cm 4cm;
+  margin:2cm 4cm 3cm 4cm;
+  position:absolute;
+  left:30px;
+  top:300px;
+  bottom: 90px;
+  right: 20px;
+  height:400px;
+  width:300px;
+  }
+
+ 
+
+
+
+p.inline
+  {
+  display:inline;
+  }

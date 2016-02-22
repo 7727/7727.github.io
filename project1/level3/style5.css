@@ -1,0 +1,28 @@
+
+
+*
+h1
+  {
+  border:2px dotted #0000A0;
+  padding:50px 50px;
+  margin:10px;
+  left:15px;
+  width: 100%
+  }
+
+
+li
+  {
+  padding:90px;
+  margin:50px;
+  border:2px dashed red;
+  left:30px;
+  top:14px；
+  bottom: 50px;
+  right: 20px;
+  height:10px;
+  width:90px;
+  }
+
+
+ 
